@@ -1,0 +1,19 @@
+.header{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  width: 80%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+#experience{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+li{
+  font-family: cursive;
+}
+#story{
+  font: 1.1em Arial, Helvetica, sans-serif;
+}
